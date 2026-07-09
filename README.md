@@ -1,7 +1,15 @@
-A home for Murad Bhabha. 
+A home for Arezou.
 
-Majority of the custom styling is done via the header.html 
+Credits:
+Originally based on jekyll-uno by Josh Gerdes.
 
-Credits to https://github.com/tzuehlke/jekyll-uno-timeline/ for the base template.
+Later adapted by Thomas Zühlke as jekyll-uno-timeline.
 
+This project has since been (poorly) edited, only a small portion of the original styling
+(_sass) remains from the upstream projects because I am scared to clean it up.
+
+The source code in this repository is licensed under the MIT License. See the LICENSE file for details.
+
+Original content (including text, original photographs, and original artwork)
+is © 2026 Arezou Bhabha. All rights reserved.
 
