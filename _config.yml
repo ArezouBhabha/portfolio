@@ -1,0 +1,37 @@
+# Site settings
+title: Arezou Bhabha
+description: 'Game Developer, Graphic Designer, Print Specialist'
+url: 'arezoubhabha.com'
+baseurl: ''
+profilepic: '/images/arezou.webp'
+bkimage: '/images/fallback.webp'
+google_analytics: UA-XXXXXX-X
+font_awesome: ''
+
+author:
+  name: 'Arezou Bhabha'
+  email: arezoubhabha@gmail.com
+  # mastodon: arezou@mstdn.social
+  twitter_username: arezoubhabha
+  facebook_username: arezoubhabha
+  github_username:  ArezouBhabha
+  linkedin_username:  arezou-bhabha
+  meetup_name: ArezouBhabha
+
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']
